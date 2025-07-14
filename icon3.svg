@@ -1,0 +1,14 @@
+<svg width="66" height="66" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <linearGradient id="SvgjsLinearGradient1201">
+                                <stop stop-color="#905e26" offset="0"></stop>
+                                <stop stop-color="#f5ec9b" offset="0.5"></stop>
+                                <stop stop-color="#905e26" offset="1"></stop>
+                            </linearGradient>
+                        </defs>
+                        <g transform="matrix(1, 0, 0, 1, 0, 0)" fill="url(#SvgjsLinearGradient1201)">
+                            <!-- |> symbol -->
+                            <text x="12" y="40" font-family="Arial, sans-serif" font-size="40"
+                                fill="url(#SvgjsLinearGradient1201)">|&gt;</text>
+                        </g>
+                    </svg>
